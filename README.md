@@ -1,13 +1,11 @@
 ### Hi there! 👋
 
-I'm Shreya Shukla, a React.js developer with expertise in Next.js, Redux Toolkit, React Router DOM, Tailwind CSS, and vanilla JavaScript. 👨‍💻
+I'm Shreya Shukla, a React.js developer with expertise in Next.js, Redux Toolkit, React Router DOM, Tailwind CSS, Firebase and vanilla JavaScript. 👨‍💻
 
 #### 🚀 About Me
 
 - 💼 Currently working as a React.js Developer.
 - 🌐 Experienced in building scalable web applications with Next.js.
-- 🔧 Proficient in state management with Redux Toolkit.
-- 🛠️ Skilled in crafting responsive and stylish UI using Tailwind CSS.
 - 🌍 Strong background in vanilla JavaScript for dynamic web applications.
 - 🚀 Actively involved in the open-source community.
 
@@ -15,7 +13,7 @@ I'm Shreya Shukla, a React.js developer with expertise in Next.js, Redux Toolkit
 
 - **Frontend:** React.js, Next.js, Redux Toolkit (RTK), React Router DOM
 - **Styling:** Tailwind CSS, CSS-in-JS
-- **Languages:** JavaScript (ES6+), HTML, CSS, C++
+- **Languages:** JavaScript (ES6+), Typescript, HTML, CSS, C++
 
 #### 🌱 Currently Learning
 
@@ -25,11 +23,6 @@ I'm Shreya Shukla, a React.js developer with expertise in Next.js, Redux Toolkit
 #### 🤝 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shreya-shukla010/)
-
-#### 🤓 Open Source Contributions
-
-- Actively contributing to open-source projects.
-- Check out my latest contributions on my [GitHub Repositories](https://github.com/Coderner).
 
 #### 💬 Let's Collaborate!
 
